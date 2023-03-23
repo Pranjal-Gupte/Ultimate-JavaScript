@@ -157,3 +157,11 @@ let y = 6;
 (!false); // Returns true
 // Logical not simply turns true to false and false to true
 ```
+
+## Links
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pranjalagupte)  
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pranjalagupte/)
+
+## Authors
+ - [@PranjalGupte](https://github.com/Pranjal-Gupte/)
