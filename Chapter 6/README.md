@@ -210,7 +210,7 @@ console.log(result10); // W
 
 // converting string to an array
 const result11 = text4.split();
-console.log(result11); // ['Apple Banana Kiwi']
+console.log(result11); // ['Apple, Banana, Kiwi']
 ```
 
 ## String Search Methods
